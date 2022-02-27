@@ -2,7 +2,7 @@
 ### Bem vindo ao meu GitHub👋
 
 ```java
-Nome nome = new Nome("Erisan Tadeu Rosa Junior")
+Nome meuNome = new Nome("Erisan Tadeu Rosa Junior");
 Localizado localizado = new Localizdo("Navegantes"; "Santa Catarina");
 Educacao educacao = new Educacao("Analise e desenvolvimento de Sistemas");
 Trabalho trabalho = new Trabalho("Programador");
