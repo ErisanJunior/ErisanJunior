@@ -5,8 +5,8 @@
 Nome meuNome = new Nome("Erisan Tadeu Rosa Junior");
 Localizado localizado = new Localizdo("Navegantes"; "Santa Catarina");
 Educacao educacao = new Educacao("Analise e desenvolvimento de Sistemas");
-Trabalho trabalho = new Trabalho("Programador");
-Empresa empresa = new Empresa("Portonave S/A");
+Trabalho trabalho = new Trabalho("Desenvolvedor");
+Empresa empresa = new Empresa("Benner S/A");
 ```
 - 🌱 Programador Java, T-SQL e PL/SQL.
 - 👯 Apaixonado por tecnologia e programação.
