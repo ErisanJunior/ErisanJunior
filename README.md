@@ -8,7 +8,7 @@ Educacao educacao = new Educacao("Analise e desenvolvimento de Sistemas");
 Trabalho trabalho = new Trabalho("Analista Desenvolvedor");
 Empresa empresa = new Empresa("Envolti Sistemas S/A");
 ```
-- 🌱 Programador Java, T-SQL e PL/SQL.
+- 🌱 Programador C#, Java, RPA - Selenium, T-SQL e PL/SQL.
 - 👯 Apaixonado por tecnologia e programação.
 
 ##
